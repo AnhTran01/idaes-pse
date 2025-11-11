@@ -45,3 +45,5 @@ from .statejunction import StateJunction, StateJunctionInitializer
 from .stoichiometric_reactor import StoichiometricReactor
 from .translator import Translator
 from .valve import ValveFunctionType, Valve, ValveData
+
+from .unit_selector_prototype_v3 import UnitSelectorV3
